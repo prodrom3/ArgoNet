@@ -2,7 +2,9 @@
 
 ArgoNet is a robust networking tool inspired by the legendary ship Argo from Greek mythology, which explores the digital seas to retrieve valuable information like the Argonauts in search of the Golden Fleece. ArgoNet combines geolocation, domain resolution, and network path analysis (traceroute) to provide comprehensive insights into network entities.
 
-
+<p align="center">
+  <img width="460" height="460" src="https://github.com/prodrom3/ArgoNet/assets/7604466/6343df52-d5e6-4c1c-b1cf-3e904b694331">
+</p>
 
 ## Features
 - **Geolocation**: Determines the city and country associated with an IP address using the GeoLite2 City database.
