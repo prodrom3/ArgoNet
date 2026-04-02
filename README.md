@@ -191,7 +191,7 @@ Contributions to ArgoNet are welcome. Please fork the repository, make improveme
 
 ## Go Version
 
-Looking for the Go version? See [Triton](https://github.com/prodrom3/triton).
+Looking for the Go version? See [triton](https://github.com/prodrom3/triton).
 
 ## Author
 
